@@ -17,7 +17,6 @@ add_defines("_IS_NEED_ALL_ChecksumPlugin=0")
 add_defines("_IS_NEED_DEFAULT_ChecksumPlugin=0")
 add_defines("_IS_NEED_DIR_DIFF_PATCH=1")
 add_defines("_ChecksumPlugin_fadler64=1")
-add_defines("_ChecksumPlugin_crc32=1")
 add_defines("_CompressPlugin_zstd=1")
 
 set_languages("c17", "cxx17")
